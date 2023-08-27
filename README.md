@@ -12,6 +12,16 @@
 
 ![](https://github.com/KazuhiroYamada/joho/blob/main/100までの素数.png?raw=true)
 
+### 約数
+
+![](https://github.com/KazuhiroYamada/joho/blob/main/約数.png)
+
+
+### 約数PAD
+
+![](https://github.com/KazuhiroYamada/joho/blob/main/約数PAD.png)
+
+
 
 ### 基本構造
 ![](https://github.com/KazuhiroYamada/joho/blob/main/基本構造.png)
