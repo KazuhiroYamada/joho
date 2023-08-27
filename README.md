@@ -10,7 +10,7 @@
 
 ### 100までの素数
 
-![100までの素数](https://github.com/KazuhiroYamada/joho/blob/main/100までの素数.png)
+![100までの素数](https://github.com/KazuhiroYamada/joho/blob/main/100までの素数.png?raw=true)
 
 ### 基本構造
 ![](https://github.com/KazuhiroYamada/joho/blob/main/基本構造.png)
