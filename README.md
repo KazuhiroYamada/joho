@@ -10,7 +10,7 @@
 
 ### 100までの素数
 
-![](https://github.com/KazuhiroYamada/joho/blob/main/100までの素数.png?raw=true)
+![](https://github.com/KazuhiroYamada/joho/blob/main/primenumber100.png?raw=true)
 
 ### 約数
 
