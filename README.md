@@ -1,16 +1,16 @@
 # joho
 教科情報のプログラム
 
-### 2から36までの整数
+### 2から30までの整数
 
-![](https://github.com/KazuhiroYamada/joho/blob/main/2から36までの整数.png?raw=true)
+![](https://github.com/KazuhiroYamada/joho/blob/main/primenumber002.png?raw=true)
 
-### 36までの素数
-![](https://github.com/KazuhiroYamada/joho/blob/main/36までの素数.png)
+### 30までの素数
+![](https://github.com/KazuhiroYamada/joho/blob/main/primenumber003.png?raw=true)
 
 ### 100までの素数
 
-![](https://github.com/KazuhiroYamada/joho/blob/main/primenumber100.png?raw=true)
+![](https://github.com/KazuhiroYamada/joho/blob/main/primenumber001.png?raw=true)
 
 ### 約数
 
