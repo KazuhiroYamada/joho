@@ -24,4 +24,10 @@
 
 
 ### 基本構造
+
 ![](https://github.com/KazuhiroYamada/joho/blob/main/基本構造.png)
+
+
+### 新潟駅からの所要時間PAD
+
+![](https://github.com/KazuhiroYamada/joho/blob/main/新潟駅からの所要時間PAD.png)
