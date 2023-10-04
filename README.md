@@ -35,3 +35,7 @@
 ### グループ分けPAD
 
 ![](https://github.com/KazuhiroYamada/joho/blob/main/Group_PAD.png)
+
+### サイコロPAD
+
+![](https://github.com/KazuhiroYamada/joho/blob/main/sai_PAD.png)
