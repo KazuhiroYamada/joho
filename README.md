@@ -31,3 +31,7 @@
 ### 新潟駅からの所要時間PAD
 
 ![](https://github.com/KazuhiroYamada/joho/blob/main/新潟駅からの所要時間PAD.png)
+
+### グループ分けPAD
+
+![](https://github.com/KazuhiroYamada/joho/blob/main/Group_PAD.png)
