@@ -38,4 +38,4 @@
 
 ### サイコロPAD
 
-![](https://github.com/KazuhiroYamada/joho/blob/main/sai_PAD.png)
+![](https://github.com/KazuhiroYamada/joho/blob/main/sai_PAD2.png)
