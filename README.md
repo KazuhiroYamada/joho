@@ -34,7 +34,7 @@
 
 ### グループ分けPAD
 
-![](https://github.com/KazuhiroYamada/joho/blob/main/Group_PAD3.png)
+![](https://github.com/KazuhiroYamada/joho/blob/main/Group_PAD4.png)
 
 ### サイコロPAD
 
