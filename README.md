@@ -43,3 +43,7 @@
 ### bubblesort_PAD
 
 ![](https://github.com/KazuhiroYamada/joho/blob/main/bubblesort_PAD.png)
+
+![](https://github.com/KazuhiroYamada/joho/blob/main/bubblesort2_PAD.png)
+
+![](https://github.com/KazuhiroYamada/joho/blob/main/bubblesort3_PAD.png)
