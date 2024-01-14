@@ -51,3 +51,7 @@
 ### フローチャート bubblesort
 
 ![](https://github.com/KazuhiroYamada/joho/blob/main/bubblesort.png)
+
+### myfactor
+
+![](https://github.com/KazuhiroYamada/joho/blob/main/PAD_myfactor.png)
